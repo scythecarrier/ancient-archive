@@ -1,3 +1,4 @@
+// Using this code, you can find out the nth term of a Fibonacci series.
 import java.util.Scanner;
 public class Nth_Fibonacci {
     public static void main(String[] args) {
