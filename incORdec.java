@@ -1,3 +1,4 @@
+//Using this code, you can check if a series of numbers is strictly increasing, decreasing or both.
 import java.util.Scanner;
 public class incORdec {
     public static void main(String[] args) {
