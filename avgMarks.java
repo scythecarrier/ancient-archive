@@ -1,3 +1,4 @@
+//Using this code, you can print the average score of a student in three subjects alongwith the first character of his/her name.
 import java.util.Scanner;
 public class avgMarks {
 
