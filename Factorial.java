@@ -1,3 +1,4 @@
+// Using this code, you can calculate the factorial of a number.
 import java.util.Scanner;
 public class Factorial {
 	public static void main(String args[]) {
