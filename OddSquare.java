@@ -1,3 +1,4 @@
+// Using this code, you can print a square pattern consisting of odd numbers.
 import java.util.Scanner;
 public class OddSquare {
 
