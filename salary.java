@@ -1,3 +1,4 @@
+//Using this code, you can find out the net salary of a person.
 import java.util.Scanner;
 import java.lang.Math;
 public class salary {
