@@ -1,3 +1,4 @@
+//Using this code, you can print all the prime numbers upto n.
 import java.util.Scanner;
 public class PrimeNumbers {
 	public static void main(String[] args) {
