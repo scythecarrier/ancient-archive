@@ -1,3 +1,4 @@
+// Using this code, you can convert Fahrenheit to Celsius.
 import java.util.Scanner;
 public class FtoC{
 
